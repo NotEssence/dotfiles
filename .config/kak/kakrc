@@ -1,0 +1,4 @@
+add-highlighter global/ number-lines -hlcursor
+
+map global insert <c-q> '<esc>'
+
